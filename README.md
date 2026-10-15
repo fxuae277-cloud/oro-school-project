@@ -1,6 +1,6 @@
 # مشروع أورو — ORO
 
-منصة طلابية لتصميم الإعلات والبوسترات بسهولة، مبنية بـ React + Vite + TypeScript + Tailwind CSS.
+منصة طلابية لتصميم الإعلانات والبوسترات بسهولة، مبنية بـ React + Vite + TypeScript + Tailwind CSS.
 
 ## عن المشروع
 
